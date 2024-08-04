@@ -132,7 +132,7 @@
       var y = t(504),
         u = t.n(y),
         _ = JSON.parse(
-          '{"mf":{"BL":"const Abdullah = ( name, passion ) =>","ut":"Hello, my name is","NS":60,"C":80,"YS":"h2","wH":1000,"cG":3000,"Kj":12000},"Fs":{"u":"Abdullah Jawed","l":"I design and build meaningful experiences."},"An":"I am a tech geek and a lifelong learner \u2014 driven by a passion for tackling new challenges and working on projects that make a meaningful impact.","ZY":{"T":{"TN":"Contact Me"},"B":{"TN":"LinkedIn"}}}'
+          '{"mf":{"BL":"const Abdullah = ( name, passion ) =>","ut":"Hello, my name is","NS":60,"C":80,"YS":"h2","wH":1000,"cG":3000,"Kj":12000},"Fs":{"u":"Abdullah Jawed","l":"I design and build meaningful experiences."},"An":"A tech geek and a lifelong learner \u2014 driven by a passion for tackling new challenges and working on projects that make a meaningful impact.","ZY":{"T":{"TN":"Contact Me"},"B":{"TN":"LinkedIn"}}}'
         );
       function v() {
         var e = (0, i.useState)("Initializing"),
@@ -246,7 +246,7 @@
             spacing: ["verticalXXXLrg"],
             children: [
               (0, a.jsx)("h4", {
-                children: "I provide services in software development including AI/ML solutions",
+                children: "Services in software development, including AI/ML solutions, are provided.",
               }),
               (0, a.jsx)("h2", { className: b().json, children: "Projects : {" }),
               (0, a.jsxs)("h2", {
