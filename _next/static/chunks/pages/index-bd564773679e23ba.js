@@ -271,7 +271,7 @@
                 className: b().jsonSub,
                 children: (0, a.jsx)("span", {
                   className: b().highlight,
-                  children: " Website development etc",
+                  children: " Web applications etc",
                 }),
               }),
               (0, a.jsx)("h2", { className: b().json, children: "}" }),
