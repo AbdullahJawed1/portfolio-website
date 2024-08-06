@@ -263,7 +263,7 @@
                 className: b().jsonSub,
                 children: (0, a.jsx)("span", {
                   className: b().highlight2,
-                  children: " computer vision solutions ",
+                  children: " Computer vision solutions ",
                 }),
               }),
 
@@ -271,7 +271,7 @@
                 className: b().jsonSub,
                 children: (0, a.jsx)("span", {
                   className: b().highlight,
-                  children: " website development etc",
+                  children: " Website development etc",
                 }),
               }),
               (0, a.jsx)("h2", { className: b().json, children: "}" }),
@@ -440,7 +440,7 @@
                         copy: "In addition to my design and technical expertise\u2014I also have strong leadership, time management, and multitasking skills\u2014. I am confident in my ability to bring passion and value to any project.",
                       }),
                       (0, a.jsx)(B, {
-                        title: "Reasearch and Development",
+                        title: "Research and Development",
                         containerClass: G().container,
                         list: D,
                         fullContainer: "fullContainer",
