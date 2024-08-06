@@ -944,7 +944,7 @@
               children: [
                 (0, a.jsx)(x, {
                   title: "Featured Projects",
-                  preTitle: "UX and Full Stack",
+                  // preTitle: "UX and Full Stack",
                   subTitle:
                     "Focused on the experience, driven by the engineering.",
                 }),
