@@ -588,9 +588,9 @@
                               (0, a.jsx)("h4", {
                                 children: "August 2023 - October 2024 ",
                               }),
-                              // (0, a.jsx)("h5", {
-                              //   children: "Karachi, Pakistan",
-                              // }),
+                              (0, a.jsx)("h5", {
+                                children: "",
+                              }),
                             ],
                           }),
                           (0, a.jsxs)("p", {
@@ -722,10 +722,10 @@
                               }),
                               (0, a.jsx)("h4", {
                                 children: "September 2022 - June 2023",
-                              // }),
-                              // (0, a.jsx)("h5", {
-                              //   children: "Karachi, Pakistan",
-                              // }),
+                              }),
+                              (0, a.jsx)("h5", {
+                                children: "",
+                              }),
                             ],
                           }),
                           (0, a.jsx)("p", {
@@ -752,9 +752,9 @@
                               (0, a.jsx)("h4", {
                                 children: "Technology trainee",
                               }),
-                              // (0, a.jsx)("h5", {
-                              //   children: "Karachi, Pakistan",
-                              // }),
+                              (0, a.jsx)("h5", {
+                                children: "",
+                              }),
                             ],
                           }),
                           (0, a.jsx)("p", {
