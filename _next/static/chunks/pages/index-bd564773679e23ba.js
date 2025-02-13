@@ -492,7 +492,7 @@
                       }),
                       (0, a.jsx)(B, {
                         title: "Software I love to work with",
-                        copy: "With over 1 year of experience creating digital assets, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. This is just some of the software I have used over that time.",
+                        copy: "Experienced creating digital assets, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. This is just some of the software I have used over that time.",
                         list: Z,
                         block: "software",
                         fullContainer: "fullContainer",
@@ -567,7 +567,7 @@
                 title: "Experience",
                 preTitle: "Career",
                 subTitle:
-                  "I am currently an AI engineer at Covalent, working on multiple AI and automation projects",
+                  "I am an AI engineer, working on multiple AI and automation projects",
               }),
               (0, a.jsxs)("section", {
                 className: J().area,
@@ -586,11 +586,11 @@
                                 children: "AI engineer, Permanent Full-time",
                               }),
                               (0, a.jsx)("h4", {
-                                children: "July 2024 - Present ",
+                                children: "August 2023 - October 2024 ",
                               }),
-                              (0, a.jsx)("h5", {
-                                children: "Karachi, Pakistan",
-                              }),
+                              // (0, a.jsx)("h5", {
+                              //   children: "Karachi, Pakistan",
+                              // }),
                             ],
                           }),
                           (0, a.jsxs)("p", {
@@ -718,14 +718,14 @@
                             children: [
                               (0, a.jsx)("h3", { children: "Shispare" }),
                               (0, a.jsx)("h4", {
-                                children: "AI Engineer Apprentice, part-time",
+                                children: "Associate AI Engineer",
                               }),
                               (0, a.jsx)("h4", {
-                                children: "May 2024 - July 2024",
-                              }),
-                              (0, a.jsx)("h5", {
-                                children: "Karachi, Pakistan",
-                              }),
+                                children: "September 2022 - June 2023",
+                              // }),
+                              // (0, a.jsx)("h5", {
+                              //   children: "Karachi, Pakistan",
+                              // }),
                             ],
                           }),
                           (0, a.jsx)("p", {
@@ -752,9 +752,9 @@
                               (0, a.jsx)("h4", {
                                 children: "Technology trainee",
                               }),
-                              (0, a.jsx)("h5", {
-                                children: "Karachi, Pakistan",
-                              }),
+                              // (0, a.jsx)("h5", {
+                              //   children: "Karachi, Pakistan",
+                              // }),
                             ],
                           }),
                           (0, a.jsx)("p", {
@@ -790,7 +790,7 @@
         W = t(9783),
         q = t.n(W),
         z = JSON.parse(
-          '[{"project":"Warehouse chatbot","url":"https://www.figma.com/file/D1boPHeYhhXRZnUBvIocoX/Sayyo?type=design&node-id=1%3A6161&mode=design&t=bDm2HuK1GMipNldh-1","repo":"Private","descriptionTitle":" Custom LLM chabot \ud83d\udd17","description":"A chatbot connected to a MySQL DB, providing users with the latest warehouse info.","imageOptions":[],"images":[{"key":"mock-stack","hover":"right","h":"600","w":"278","url":"/img/msc-mock_stack/bot.png"},{"key":"mock-stack","hover":"right","h":"500","w":"478","url":"/img/msc-mock_stack/bot.png"}],"stack":[{"key":"mysql","name":"mySQL","type":"devicon"},{"key":"javascript","name":"JavaScript","type":"devicon"},{"key":"jquery","name":"jQuery","type":"devicon"},{"key":"html5","name":"HTML5","type":"devicon"},{"key":"css3","name":"CSS3","type":"devicon"},{"key":"python","name":"PYTHON","type":"devicon"},{"key":"git","name":"Git(Hub)","type":"devicon"},{"key":"Llama","name":"LLAMA3","type":"devicon"}]},{"project":"ID card verification","repo":"Private","descriptionTitle":"For UAE and Iraq: ","description":"Uses computer vision to extract and verify data from national ID cards.","imageOptions":[{"key":"size","value":"medium"}],"images":[{"key":"portfolio","hover":"left","h":"797","w":"456","url":"/img/idcard.jpg"}],"stack":[{"key":"react","name":"React","type":"devicon"},{"key":"nodejs","name":"Node.js","type":"devicon"},{"key":"mysql","name":"Mysql","type":"devicon"},{"key":"javascript","name":"JavaScript","type":"devicon"},{"key":"PYTHON","name":"PYTHON","type":"devicon"},{"key":"YOLO","name":"YoloV8","type":"devicon"},{"key":"git","name":"Git(Hub)","type":"devicon"}]}]'
+          '[{"project":"Warehouse chatbot","url":"https://www.figma.com/file/D1boPHeYhhXRZnUBvIocoX/Sayyo?type=design&node-id=1%3A6161&mode=design&t=bDm2HuK1GMipNldh-1","repo":"Private","descriptionTitle":" Custom LLM chabot \ud83d\udd17","description":"A chatbot connected to a MySQL DB, providing users with the latest warehouse info.","imageOptions":[],"images":[{"key":"mock-stack","hover":"right","h":"600","w":"278","url":"/img/msc-mock_stack/bot.png"},{"key":"mock-stack","hover":"right","h":"500","w":"478","url":"/img/msc-mock_stack/bot.png"}],"stack":[{"key":"mysql","name":"mySQL","type":"devicon"},{"key":"javascript","name":"JavaScript","type":"devicon"},{"key":"jquery","name":"jQuery","type":"devicon"},{"key":"html5","name":"HTML5","type":"devicon"},{"key":"css3","name":"CSS3","type":"devicon"},{"key":"python","name":"PYTHON","type":"devicon"},{"key":"git","name":"Git(Hub)","type":"devicon"},{"key":"Llama","name":"LLAMA3","type":"devicon"}]},{"project":"ID card verification","repo":"Private","descriptionTitle":"For ID Documents: ","description":"Uses computer vision to extract and verify data from national ID cards.","imageOptions":[{"key":"size","value":"medium"}],"images":[{"key":"portfolio","hover":"left","h":"797","w":"456","url":"/img/idcard.jpg"}],"stack":[{"key":"react","name":"React","type":"devicon"},{"key":"nodejs","name":"Node.js","type":"devicon"},{"key":"mysql","name":"Mysql","type":"devicon"},{"key":"javascript","name":"JavaScript","type":"devicon"},{"key":"PYTHON","name":"PYTHON","type":"devicon"},{"key":"YOLO","name":"YoloV8","type":"devicon"},{"key":"git","name":"Git(Hub)","type":"devicon"}]}]'
         );
       function Q(e, n) {
         var t = e.content,
