@@ -720,9 +720,9 @@
                               (0, a.jsx)("h4", {
                                 children: "Associate AI Engineer",
                               }),
-                              (0, a.jsx)("h4", {
-                                children: "September 2022 - June 2023",
-                              }),
+                              // (0, a.jsx)("h4", {
+                              //   children: "September 2022 - June 2023",
+                              // }),
                               (0, a.jsx)("h5", {
                                 children: "",
                               }),
