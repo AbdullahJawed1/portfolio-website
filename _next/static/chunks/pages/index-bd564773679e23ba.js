@@ -718,7 +718,7 @@
                             children: [
                               (0, a.jsx)("h3", { children: "Shispare" }),
                               (0, a.jsx)("h4", {
-                                children: "Associate AI Engineer",
+                                children: "AI Engineer",
                               }),
                               // (0, a.jsx)("h4", {
                               //   children: "September 2022 - June 2023",
@@ -750,7 +750,7 @@
                                 children: "Daraz",
                               }),
                               (0, a.jsx)("h4", {
-                                children: "Technology trainee",
+                                children: "Technology Engineer",
                               }),
                               (0, a.jsx)("h5", {
                                 children: "",
